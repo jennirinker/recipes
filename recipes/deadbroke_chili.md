@@ -17,6 +17,8 @@ Serves 4. (1.5 cups is a serving.)
 - 1/2 cup red wine or 2 big spoons soy sauce (optional)
 - Frying oil
 - 1/2 cup water (as needed)
+- 1 big spoon cocoa powder (optional)
+- 1 small spoon suger (optional)
 
 ### Preparation
 
@@ -34,4 +36,4 @@ Serves 4. (1.5 cups is a serving.)
 ## Current status
 
 Need to find robust recipe that doesn't depend on exact
-veggie availability.
+veggie availability. Cocoa powder and sugar are untested.
