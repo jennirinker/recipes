@@ -4,7 +4,7 @@ Makes: a lot of rice. (8 servings?)
 
 - 2 cups rice
 - 3 cups water
-- 1 small spoon salt
+- 2 small spoons salt
 
 1. Rinse rice twice in pot.
 2. Add water.
