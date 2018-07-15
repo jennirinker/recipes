@@ -1,36 +1,37 @@
 # Dead-broke chili
 
-Serves ???.
+Serves 4. (1.5 cups is a serving.)
 
 ### Ingredients
 
-- 1 500g box of tomatoes
-- 1 bell pepper
-- 3 cans of beans
+- 1 400g can of tomatoes
+- 3 cups vegetables (bell pepper, carrots,
+   mushrooms, onion, whatever)
+- 1 can of beans
 - 2 cups cooked rice
-- 4 cloves garlic
-- 1 small spoon chili powder
+- 6 cloves garlic
+- 1/2 small spoon chili flakes
 - 1 small spoon cumin
 - 1 small spoon salt
 - 1 small spoon black pepper
-- 1/2 cup red wine (optional)
+- 1/2 cup red wine or 2 big spoons soy sauce (optional)
+- Frying oil
+- 1/2 cup water (as needed)
 
 ### Preparation
 
-1. Rinse and dice the bell peppers.
+1. Rinse and dice all veggies as needed.
 2. Rinse and drain the beans.
 3. Peel the garlic cloves.
 
 ### Cook
 
-1. Mix everything except the garlic together in a pot.
-2. Crush 3 of the cloves into the mixture.
-3. Cook on 6 for 4 minutes.
-4. Reduce to 1, cook for 30 minutes.
-5. Crush last clove of garlic into pot, mix, and serve.
-   Or freeze.
+1. Cook veggies (except any mushrooms) over 4 in pot
+   until juicy.
+2. Add everything else to pot, crushing garlic.
+3. Reduce to 1, cook for 30+ minutes, adding extra water as needed.
 
 ## Current status
 
-First realization, so will need several iterations on ingredients
-list, serving size, etc.
+Need to find robust recipe that doesn't depend on exact
+veggie availability.
