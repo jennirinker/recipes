@@ -1,5 +1,7 @@
 # Vegan stuffed peppers
 
+Serves 4. One is enough for a main dish.
+
 ### Ingredients
 
 - 1 big spoon salt
@@ -40,5 +42,5 @@
    
 ## Current status
 
-Onion cooking needs more instructions. I made up the coconut milk
-and spinach, so that part of the recipe will probably need a few more iterations.
+Onion cooking needs more instructions. Coconut milk and spinach parts
+are untested. 
