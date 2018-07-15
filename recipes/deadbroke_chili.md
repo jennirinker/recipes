@@ -23,15 +23,15 @@ Serves 4. (1.5 cups is a serving.)
 ### Preparation
 
 1. Rinse and dice all veggies as needed.
-2. Rinse and drain the beans.
-3. Peel the garlic cloves.
+1. Rinse and drain the beans.
+1. Peel the garlic cloves.
 
 ### Cook
 
 1. Cook veggies (except any mushrooms) over 4 in pot
    until juicy.
-2. Add everything else to pot, crushing garlic.
-3. Reduce to 1, cook for 30+ minutes, adding extra water as needed.
+1. Add everything else to pot, crushing garlic.
+1. Reduce to 1, cook for 30+ minutes, adding extra water as needed.
 
 ## Current status
 
