@@ -5,8 +5,8 @@ Serves: 1. Or 2 people if it's accompanying a meal.
 ### Ingredients
 
 * 1 fresh banana
-* 1.5 cups frozen fruit
-* 1.5 cups yogurty liquid
+* 1.25 cups frozen fruit
+* 1.25 cups yogurty liquid
 
 ### Steps
 
@@ -14,4 +14,5 @@ Serves: 1. Or 2 people if it's accompanying a meal.
 
 ## Current status
 
-First iteration.
+Consistency is good, but still
+converging to fitting in one jar.
