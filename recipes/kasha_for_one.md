@@ -6,10 +6,10 @@ Vegan. Serves 1. Obviously.
 
 ### Ingredients
 
-- 1/2 cup grains
-- 1 cup water
-- 1 tsp salt
-- 1 tsp sugar
+- 1/2 cup grains (mid line plastic cup)
+- 1 cup water (2x mid line plastic cup)
+- 1/2 tsp salt
+- 1/2 tsp sugar
 
 
 ### Cook
@@ -20,5 +20,7 @@ looks ok.
 
 ## Current status
 
-Still working on the serving size and ratio of salt/sugar to the rest.
-Will need a few more iterations.
+Had 1 tsp sugar before, was way too much.
+Serving size is now okay, maybe a bit large but not too bad.
+Jenni, it doesn't look like much but it is enough.
+Trust me and stop wanting to make more.
