@@ -28,9 +28,10 @@ The conversion for 50g fresh yeast is approximately 25g active dry yeast or appr
 1. Empty the dough on a lightly floured surface and "knock it back" while adding in the raisins.
    Separate the dough into 12 equal pieces and place them on a baking tray.
    Let them rise 30 minutes, but set an alarm to remind yourself to warm the oven.  
-1. When 10 minutes are left, set the oven to the warm-air setting at 200 C.
-1. Bake about 15 minutes or until golden brown.
+1. When 10 minutes are left, set the oven to the warm-air setting at 190 C.
+1. Bake about 10 minutes or until golden brown.
 
 ## Current status
 
 Amount of raisins is unmeasured. Consider melting margarine and painting the tops of them.
+Baked too long/hot last time, so next time try 190 for oven.
