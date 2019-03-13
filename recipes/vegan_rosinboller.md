@@ -1,6 +1,6 @@
 # Vegan rosinboller (raisin buns).
 
-Vegan. Makes 12. Based on recipe recommended by Emma for festlavnsboller: [original here](https://miasommer.wordpress.com/2012/02/19/fastelavnsboller/).
+Vegan. Makes 12. Based on recipe recommended by Emma for fastelavnsboller: [original here](https://miasommer.wordpress.com/2012/02/19/fastelavnsboller/).
 
 
 ### Ingredients
@@ -14,13 +14,13 @@ Vegan. Makes 12. Based on recipe recommended by Emma for festlavnsboller: [origi
 - 1 tsp salt  
 - 50g rasins  
 
-* Fresh yeast is a thing in Denmark.
+\* Fresh yeast is a thing in Denmark.
 The conversion for 50g fresh yeast is approximately 25g active dry yeast or approximately 12g instant yeast.  
 ** Vanilla sugar is also a thing in Denmark instead of vanilla extract. 1 tsp vanilla sugar is about 2/3 tsp vanilla extract.
 
 ### Make and bake
 
-1. Place the water, yeast, sugar, vanilla sugar, and salt together in a big bowl.  
+1. Place the water, yeast, sugar, vanilla sugar, and salt together in a big bowl.
    Squish the yeast block with your fingers until it is fully dissolved in the mixture.  
 1. Melt the margarine, then add it to the liquid mixture.  
 1. Slowly add in the flour to the liquid mixture, blending it with your hands until all the flour is taken up.
