@@ -1,11 +1,11 @@
-# Chocolage chip cookies.
+# Chocolate chip cookies.
 
 Vegan. Makes 12. Modified from [Chocolate Covered Katie](https://chocolatecoveredkatie.com/2018/05/21/vegan-chocolate-chip-cookies-recipe/).
 
 
 ### Ingredients
 
-- 1502g flour  
+- 150 g flour  
 - 1/4 cup (50g) sugar  
 - 1/4 cup (50g) brown sugar  
 - 1/2 tsp baking powder  
@@ -25,7 +25,6 @@ Vegan. Makes 12. Modified from [Chocolate Covered Katie](https://chocolatecovere
 1. Bake 11 minutes. They won't really squish down.  
 1. Remove to cooling rack as soon as they're firm enough.
 
-## Notes on ingredients
 
 ## Current status
 
