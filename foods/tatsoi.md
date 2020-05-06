@@ -1,5 +1,7 @@
 # Tatsoi
 
+![tatsoi](https://assetsv2.aarstiderne.com/encyclopedia/dk/tatsoi-694-0-75.png)
+
 Think spinach.
 Same family as mustard greens and brussel sprouts (*brassica*).
 
